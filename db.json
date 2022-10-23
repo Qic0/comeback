@@ -1,0 +1,131 @@
+{
+    "managers": [
+        {
+            "ID": 1,
+            "uuid": "c86a365f-17a9-44e1-b221-13f8371c00fe",
+            "phone": 89888794747,
+            "pass": "qwerty1",
+            "initials": "Medincev S. A."
+        },
+        {
+            "ID": 3,
+            "uuid": "d65237a5-ddbd-4bb2-8f01-a4f14e423279",
+            "phone": 89888794757,
+            "pass": "qwerty1",
+            "initials": "Kovalev P. V."
+        },
+        {
+            "ID": 4,
+            "uuid": "1434d0c8-9b62-483e-9e45-86d700303462",
+            "phone": 89888794745,
+            "pass": "qwerty1",
+            "initials": "Pavlov N. L."
+        },
+        {
+            "ID": 8,
+            "uuid": "7cba9d5d-860a-4849-8138-847433991753",
+            "phone": 898887947453,
+            "pass": "qwerty1",
+            "initials": "Pavlov N. L."
+        }
+    ],
+    "orderTable": [
+        {
+            "number": 1,
+            "height": 0.703,
+            "width": 0.587,
+            "amount": 1,
+            "panel": "Ф-01 ",
+            "note": " ",
+            "area": 0.412661
+        },
+        {
+            "number": 2,
+            "height": 0.716,
+            "width": 0.121,
+            "amount": 1,
+            "panel": "СТЕКЛО ",
+            "note": " ",
+            "area": 0.412661
+        },
+        {
+            "number": 3,
+            "height": 785,
+            "width": 623,
+            "amount": 2,
+            "panel": " ",
+            "note": " ",
+            "area": 0.412661
+        },
+        {
+            "number": 4,
+            "height": 145,
+            "width": 425,
+            "amount": 3,
+            "panel": " ",
+            "note": " ",
+            "area": 0.412661
+        }
+    ],
+    "orderStatus": [
+        {
+        "id":1,
+
+        "dataOffice" : "15/05/20",          
+        "dataManufacturing" : "20/05/20",   
+        "dataGrinding" : "28/05/20",        
+        "dataPainting" : "5/06/20",         
+        "dataReady" : "12/06/20",           
+
+
+        "statusOffice" :true,               
+        "statusManufacturing" :false,         
+        "statusGrinding" :false,             
+        "statusPainting" :false,             
+
+        "productionTime" : "45 дней"  
+        }
+    ],
+    "priceList": [
+        {   
+            "name": "Ф-01",
+            "price": 4200
+        },
+        {   
+            "name": "Ф-02",
+            "price": 4500
+        },
+        {   
+            "name": "Ф-03",
+            "price": 5000
+        },
+        {
+            "name": "Ф-04",
+            "price": 5500
+        },
+        {
+            "name": "А-01",
+            "price": 7000
+        },
+        {
+            "name": "А-2",
+            "price": 8000
+        },
+        {
+            "name": "В-1",
+            "price": 7500
+        },
+        {
+            "name": "Модерн",
+            "price": 6000
+        },
+        {
+            "name": "Мавзолей",
+            "price": 6500
+        },
+        {
+            "name": "Массив",
+            "price": 8500
+        }
+    ]
+}
